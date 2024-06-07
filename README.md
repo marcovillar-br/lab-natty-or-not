@@ -10,8 +10,8 @@ Adobe Firefly
 ## 🧐 Processo de Criação
 Solicitação: Bela casa de pedra de fantasia aconchegante em uma floresta de primavera ao lado de um caminho de paralelepípedos e um riacho balbuciante. Muro de pedra. Montanhas ao longe. Tom e sensação mágicos, hiper realistas.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 🚀 Resultado
+[Casa de Pedra](https://github.com/marcovillar-br/lab-natty-or-not/blob/main/Casa-de-Pedra.jpg)
 
 ```
 
