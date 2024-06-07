@@ -13,6 +13,7 @@ Solicitação: Bela casa de pedra de fantasia aconchegante em uma floresta de pr
 ```
 
 ## 🚀 Resultado
+
 [Casa de Pedra](https://github.com/marcovillar-br/lab-natty-or-not/blob/main/Casa-de-Pedra.jpg)
 ![Casa de Pedra](https://github.com/marcovillar-br/lab-natty-or-not/blob/main/Casa-de-Pedra.jpg)
 
